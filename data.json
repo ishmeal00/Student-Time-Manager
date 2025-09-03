@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "Student Time Manager",
+    "version": "0.1.0",
+    "author": "Ismail Guedjali"
+  },
+  "sample_page": {
+    "title": "Welcome",
+    "content": "[{\"type\":\"heading\",\"text\":\"Welcome to STM\"},{\"type\":\"paragraph\",\"text\":\"This is a sample block. Replace with JSON blocks or markdown.\"}]"
+  }
+}
